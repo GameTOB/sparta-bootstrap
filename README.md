@@ -1,2 +1,2 @@
-# sparta-bootstrap
-Sparta bootstrap ，replace project  UI-CSS 
+# sparta-style
+Sparta style ，inherited from  [UI-CSS](https://github.com/GameTOB/ui-css) 
